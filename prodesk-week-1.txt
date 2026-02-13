@@ -1,0 +1,15 @@
+﻿Hi, I am Alok and this is my week 1 project.
+
+This is my HTML file.
+
+This is my CSS file
+
+and this is my JS file.
+
+These are my assets like Instagram logo, linkedin logo, etc.
+
+Now I'm going to open my project on my local system, where i'm going to show the UI part of my project.
+
+Now this is additional feature toggle mode i.e. dark mode and light mode.
+
+Thank You.
